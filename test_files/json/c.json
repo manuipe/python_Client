@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "products": {
+      "product": [
+        {
+          "name": "Cheese",
+          "price": "8.00"
+        },
+        {
+          "name": "Ice Cream",
+          "price": "6.40"
+        },
+        {
+          "name": "Bread",
+          "price": "3.50"
+        },
+        {
+          "name": "Bananas",
+          "price": "2.29"
+        },
+        {
+          "name": "Sugar",
+          "price": "2.50"
+        }
+      ]
+    },
+    "total": "22.69"
+  }
+}

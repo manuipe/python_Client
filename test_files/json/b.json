@@ -1,0 +1,17 @@
+{
+  "invoice": {
+    "products": {
+      "product": [
+        {
+          "name": "Food",
+          "price": "5.00"
+        },
+        {
+          "name": "Drink",
+          "price": "2.00"
+        }
+      ]
+    },
+    "total": "7.00"
+  }
+}

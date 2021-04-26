@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<invoice>
+  <products>
+    <product>
+      <name>Cheese</name>
+      <price>8.00</price>
+    </product>
+    <product>
+      <name>Ice Cream</name>
+      <price>6.40</price>
+    </product>
+    <product>
+      <name>Bread</name>
+      <price>3.50</price>
+    </product>
+    <product>
+      <name>Bananas</name>
+      <price>2.29</price>
+    </product>
+    <product>
+      <name>Sugar</name>
+      <price>2.50</price>
+    </product>
+  </products>
+  <total>22.69</total>
+</invoice>

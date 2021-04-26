@@ -1,0 +1,29 @@
+{
+  "invoice": {
+    "products": {
+      "product": [
+        {
+          "name": "Milk",
+          "price": "3.00"
+        },
+        {
+          "name": "Pizza",
+          "price": "7.00"
+        },
+        {
+          "name": "Burger",
+          "price": "3.50"
+        },
+        {
+          "name": "Chips",
+          "price": "2.00"
+        },
+        {
+          "name": "Coffee",
+          "price": "2.50"
+        }
+      ]
+    },
+    "total": "18.00"
+  }
+}
